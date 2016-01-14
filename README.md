@@ -1,2 +1,2 @@
 # ArcanaForge
-Testing repositories
+For the Arcana Forge project run by UnearthedArcana and Co.
